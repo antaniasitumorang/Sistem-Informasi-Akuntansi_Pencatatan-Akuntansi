@@ -191,7 +191,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## tampilan "Neraca Lajur"
 ![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/92d585ae-dedf-46f1-ac86-cbbb2b85f7c2)
-![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/db726d52-b14b-47cb-bec6-a629c818490f)
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/25d3ca7c-ff51-4331-8af0-ee113578eb78)
+
 
 
 ## menu "Laporan" pada Laporan "Perubahan Ekuitas"
