@@ -171,7 +171,40 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Credit to https://github.com/maulanakevinp/akuntansi terima kasih ^_^
 
 ## tampilan awal
-![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/4ff2a2f9-babd-4ebf-b74a-8780c46b8fb7)
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/8eb913cd-9e49-4c0c-ac7c-c396fb917c9b)
+
+## halaman login akun
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/27470caf-8a96-48ab-8c31-cc92cdb1b892)
+
+## halaman depan pada menu "Akun"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/dee79fe9-91db-4f46-9b62-d4b866ead363)
+
+## tampilan menu "Jurnal Umum" 
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/ef0ccf43-bf59-422a-94c1-474a7cddb4d3)
 
 
+## tampilan pada menu "Jurnal Penyesuaian"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/3c2c3e55-4c1e-4edf-85ef-5f528ad46dad)
 
+## menu "Buku Besar"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/de09e015-c2c9-47d3-aa7f-bdb137c01d97)
+
+## tampilan "Neraca Lajur"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/92d585ae-dedf-46f1-ac86-cbbb2b85f7c2)
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/db726d52-b14b-47cb-bec6-a629c818490f)
+
+
+## menu "Laporan" pada Laporan "Perubahan Ekuitas"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/e5da10a6-9366-4c6a-a6bf-6bf92e71b7fd)
+
+## menu "Laporan" pada Laporan "Laba Rugi"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/de7da109-83bb-40ed-b1f3-a0f5c7481758)
+
+## menu "Laporan" pada Laporan "Posisi Keuangan"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/de6aa5cb-4072-4168-8b9f-18c899d42166)
+
+## tampilan "Jurnal Penutup"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/4e1221a6-bd3a-4bc8-bc3d-7b5f8ed6b5bb)
+
+## tampilan menu "Pengaturan Akun"
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/1974a432-ce68-4647-9f8b-965c73b3c975)
