@@ -170,6 +170,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Credit to https://github.com/maulanakevinp/akuntansi terima kasih ^_^
 
+## structure pada halaman database localhost
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/3d9f050b-d87a-4984-8e11-a59935e1e89c)
+
+
 ## flowchart penggunaan aplikasi
 ![WhatsApp Image 2023-12-03 at 00 00 43_b827bd8b](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/104672ba-7979-45a4-8a79-be1bcc02b169)
 ![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/8e1d7615-6a37-4623-a7a2-d1064ce39af4)
