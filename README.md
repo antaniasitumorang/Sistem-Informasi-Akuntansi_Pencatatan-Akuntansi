@@ -170,6 +170,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Credit to https://github.com/maulanakevinp/akuntansi terima kasih ^_^
 
+## flowchart penggunaan aplikasi
+![WhatsApp Image 2023-12-03 at 00 00 43_b827bd8b](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/104672ba-7979-45a4-8a79-be1bcc02b169)
+![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/8e1d7615-6a37-4623-a7a2-d1064ce39af4)
+
+
 ## tampilan awal
 ![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/8eb913cd-9e49-4c0c-ac7c-c396fb917c9b)
 
@@ -192,7 +197,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## tampilan "Neraca Lajur"
 ![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/92d585ae-dedf-46f1-ac86-cbbb2b85f7c2)
 ![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi/assets/151722099/25d3ca7c-ff51-4331-8af0-ee113578eb78)
-
 
 
 ## menu "Laporan" pada Laporan "Perubahan Ekuitas"
