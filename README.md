@@ -176,6 +176,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## flowchart penggunaan aplikasi
 ![WhatsApp Image 2023-12-03 at 00 00 43_b827bd8b](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/104672ba-7979-45a4-8a79-be1bcc02b169)
+
+## flowchart (designer) pada database localhost
 ![image](https://github.com/antaniasitumorang/Sistem-Informasi-Akuntansi_Pencatatan-Akuntansi/assets/151722099/8e1d7615-6a37-4623-a7a2-d1064ce39af4)
 
 
